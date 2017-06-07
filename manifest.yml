@@ -1,0 +1,7 @@
+
+---
+applications:
+- name: pde-check-eligibility
+  buildpack: nodejs_buildpack
+  memory: 64MB
+  instances: 1
